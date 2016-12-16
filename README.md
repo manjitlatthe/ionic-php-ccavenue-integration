@@ -56,4 +56,4 @@ After successful installation write the following code in the controller -
 
 All the best.
 
-Demo link: <a href="http://demos.masterequation.com/manjit/ionic-php-ccavenue-integration/myproject/www/">Click here</a>
+Demo link: <a href="http://demos.masterequation.com/manjit/ionic-php-ccavenue-integration/myproject/www/" target="_blank">Click here</a>
