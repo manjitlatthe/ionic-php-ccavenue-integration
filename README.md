@@ -7,7 +7,7 @@ Firstly,
 Enable API support for your CCavenue merchant account by Whitelist your outgoing IP address xxx.xx.xx.xxx for API calls.
 Send the request regarding this to service@ccavenue.com with your valid Merchant ID.
 
-Download the "backend" folder from above repository and do the following changes -
+Download all the file into "backend" folder from above repository and do the following changes -
 - change the $working_id, $access_code, $merchant_id & $base_url in constant.php.
 - $base_url should be the valid path where backend folder is placed.
 
