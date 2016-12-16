@@ -1,6 +1,6 @@
 <?php
 require 'constant.php';
-require 'Crypto/phpseclib/Crypt/RSA.php';
+require 'Crypto/Crypto.php';
 error_reporting(0);
 
 $encResponse = $_POST["encResp"];			//This is the response sent by the CCAvenue Server
