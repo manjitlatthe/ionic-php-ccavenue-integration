@@ -54,16 +54,6 @@ After successful installation write the following code in the controller -
   
   Also don't forget to change CONFIG.BASE_URL value. It should be a valid server URL where getRSA.php is placed.
 
-# OR
-
-Download "myproject" from above repository.
-
-Change CONFIG.BASE_URL to server URL where getRSA.php is placed and run the command -
-
-$ ionic serve
-
-You will see a payment screen where Order ID and Amount field is required to be filled.
-
 All the best.
 
 Demo link: http://demos.masterequation.com/manjit/ionic-php-ccavenue-integration/myproject/www/
