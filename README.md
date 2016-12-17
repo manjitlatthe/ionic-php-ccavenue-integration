@@ -22,7 +22,7 @@ $ cordova plugin add cordova-plugin-inappbrowser
 
 After successful installation write the following code in the controller -
 
-  $scope.data = {
+  	$scope.data = {
 		orderId: 1,
 		amount: 1,
 	};
