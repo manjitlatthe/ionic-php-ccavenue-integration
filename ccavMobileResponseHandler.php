@@ -37,11 +37,11 @@ else
 
 $response .= "<br/><br/>";
 
-echo "<table cellspacing=4 cellpadding=4>";
+$response .= "<table cellspacing=4 cellpadding=4>";
 for($i = 0; $i < $dataSize; $i++)
 {
 	$information=explode('=',$decryptValues[$i]);
-	echo '<tr><td>'.$information[0].'</td><td>'.$information[1].'</td></tr>';
+	$response .= '<tr><td>'.$information[0].'</td><td>'.$information[1].'</td></tr>';
 }
 
 $response .= "</table><br>";
